@@ -1,6 +1,6 @@
 
 
-var idexprv = -1;
+
 
 function displayQuote(){
 
